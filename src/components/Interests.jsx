@@ -1,7 +1,8 @@
-import { t } from 'i18next';
 import React from 'react';
+import { useTranslation } from 'react-i18next';
 
 const Interests = () => {
+    const { t } = useTranslation();
     return (
         <div>
             {/* Interests */}

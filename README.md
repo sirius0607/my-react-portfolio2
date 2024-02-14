@@ -1,6 +1,6 @@
-# My portfolio built with React + Vite and Bootstrap
+# My portfolio built with React + Vite and Bootstrap CSS
 
-This react + boostrap SPA is deployed on gh-pages
+This react + boostrap SPA is deployed on gh-pages at https://sirius0607.github.io/my-react-portfolio2/
 
 This project was bootstrapped with [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md)
 

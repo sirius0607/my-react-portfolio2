@@ -1,0 +1,302 @@
+{
+  "translation": {
+    "localeId": "en",
+    "locale": "English",
+    "homeTitle": "Home",
+    "name": "Siegfried Alimi",
+    "photo": "images/siegfried-profile3.jpg",
+    "role": "Tech Lead | Application Architect | Senior Full Stack Dev",
+    "socialLinks": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/siegfried-alimi-6b734b11",
+        "className": "linkedin-in"
+      },
+      {
+        "name": "facebook",
+        "url": "http://facebook.com/siegfried.alimi",
+        "className": "facebook-f"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/sirius0607",
+        "className": "github"
+      }
+    ],
+    "aboutTitle": "About",
+    "aboutDesc": "I am a computing engineer leaving in Paris, France. I have 19+ years of experience in web application development and both front-end and back-end development skills. I have been working for 10 years as Tech Lead with a 7 people dev team in an insurance company.",
+    "aboutTopSkillsTitle": "I am good at",
+    "aboutTopSkills": [
+      {
+        "aboutTopSkillsName": "Java"
+      },
+      {
+        "aboutTopSkillsName": "SpringBoot"
+      },
+      {
+        "aboutTopSkillsName": "Javascript"
+      },
+      {
+        "aboutTopSkillsName": "Angular"
+      },
+      {
+        "aboutTopSkillsName": "REST"
+      },
+      {
+        "aboutTopSkillsName": "Hibernate"
+      },
+      {
+        "aboutTopSkillsName": "Scrum"
+      }
+    ],
+    "cvUrl": "https://1drv.ms/w/c/9aa8569e5aaea3cd/Ea5pilu8Y2RNrPNnjF6334oBEuClsKOaXLUeYQgnzEl2LQ?e=2wnudO",
+    "downloadButton": "Download CV",
+    "skillsTitle": "Skills",
+    "languagesTitle": "languages: ",
+    "toolsTitle": "tools: ",
+    "frontendTitle": "Front-end",
+    "backendTitle": "Back-end",
+    "programmingSkills": {
+      "backend": {
+        "languages": [
+          {
+            "languageName": "Java"
+          },
+          {
+            "languageName": "C"
+          },
+          {
+            "languageName": "C++"
+          },
+          {
+            "languageName": "SQL"
+          }
+        ],
+        "tools": [
+          {
+            "toolName": "Spring"
+          },
+          {
+            "toolName": "Spring Boot"
+          },
+          {
+            "toolName": "JPA/Hibernate"
+          },
+          {
+            "toolName": "MyBatis"
+          },
+          {
+            "toolName": "REST"
+          },
+          {
+            "toolName": "GIT"
+          },
+          {
+            "toolName": "Maven"
+          },
+          {
+            "toolName": "Jenkins"
+          },
+          {
+            "toolName": "Sonar"
+          },
+          {
+            "toolName": "JBoss"
+          },
+          {
+            "toolName": "Tomcat"
+          }
+        ]
+      },
+      "frontend": {
+        "languages": [
+          {
+            "languageName": "Javascript"
+          },
+          {
+            "languageName": "HTML"
+          },
+          {
+            "languageName": "CSS"
+          }
+        ],
+        "tools": [
+          {
+            "toolName": "Angular"
+          },
+          {
+            "toolName": "Jquery"
+          },
+          {
+            "toolName": "NodeJS"
+          },
+          {
+            "toolName": "NPM"
+          },
+          {
+            "toolName": "Grunt"
+          },
+          {
+            "toolName": "Webpack"
+          },
+          {
+            "toolName": "Karma"
+          },
+          {
+            "toolName": "Jasmine"
+          },
+          {
+            "toolName": "Protractor"
+          },
+          {
+            "toolName": "Boostrap"
+          }
+        ]
+      }
+    },
+    "methodologyTitle": "Methodology",
+    "methodologies": [
+      {
+        "methodologyName": "DDD"
+      },
+      {
+        "methodologyName": "TDD"
+      },
+      {
+        "methodologyName": "Scrum"
+      },
+      {
+        "methodologyName": "Kanban"
+      },
+      {
+        "methodologyName": "Extreme Programming"
+      }
+    ],
+    "databaseTitle": "Database",
+    "databases": [
+      {
+        "databaseName": "DB2"
+      },
+      {
+        "databaseName": "Oracle"
+      },
+      {
+        "databaseName": "PostgreSQL"
+      }
+    ],
+    "ideTitle": "IDE",
+    "ide": [
+      {
+        "ideName": "IntelliJ"
+      },
+      {
+        "ideName": "VS Code"
+      },
+      {
+        "ideName": "Eclipse"
+      }
+    ],
+    "osTitle": "OS",
+    "os": [
+      {
+        "osName": "Windows"
+      },
+      {
+        "osName": "UNIX"
+      },
+      {
+        "osName": "Linux"
+      }
+    ],
+    "experienceTitle": "Experience",
+    "projectTitle": "Project",
+    "responsabilitiesTitle": "Responsabilities",
+    "technicalEnvironmentTitle": "Technical Environment",
+    "experience": [
+      {
+        "id": "migration",
+        "role": "Tech Lead",
+        "companyName": "SMABTP",
+        "period": "December 2022 - Present",
+        "projectDesc": "Development and migration of Cloud Native applications on the SMA Private Cloud",
+        "responsabilitiesDesc": [
+          {
+            "responsabilityName": "Implementation of Cloud Native application using Angular 16 with standalone components and PrimeNG on the Front-end and Java 17 / Spring Boot 3.2 on the Back-end. New applications (attestation management tool and a pricing portal) and migrations of existing applications (management of external collaborators, assistance with mail creation)"
+          },
+          {
+            "responsabilityName": "Compliance with Microservice (12 Factors) and DDD principles"
+          },
+          {
+            "responsabilityName": "REST API design for microservices developed by other IT teams"
+          },
+          {
+            "responsabilityName": "Internationalization of an application with Angular Transloco and ChatGPT for translation into Spanish and English"
+          },
+          {
+            "responsabilityName": "Preparation and animation of onBoarding Teams meetings for new Cloud applications with the various IT department stakeholders (Architects, Operators, DBA)."
+          },
+          {
+            "responsabilityName": "Supervision of developers working on the new architecture (training, support, code review, refactoring assistance)"
+          }
+        ],
+        "technicalEnvironmentDesc": "MicroService Java 17 / SpringBoot 3.2, Gradle 8, REST, Angular 16, GIT, GitLab, SonarQube, PrimeNG, JWT, Swagger, Docker, Kubernetes, VSCode, IntelliJ, Artifactory, DB2 v11, Windows 10"
+      },
+      {
+        "id": "batch",
+        "role": "Tech Lead, Scrum master",
+        "companyName": "SMABTP",
+        "period": "July 2018 - December 2022",
+        "projectDesc": "Support and development of the SMABTP business application, \"Reglements\", for Claims Processing. Adding Motor Fleet Claims Management feature. Development of a batch to read Vehicle Experts reports from Darva remote platform and automatically pay customers.",
+        "responsabilitiesDesc": [
+          {
+            "responsabilityName": "Designed of a new batch architecture with Java 8 and Spring Boot using TDD and DDD best practices. This new batch architecture serves as a model to 3 developers to develop 3 new batchs for recourse processing."
+          }
+        ],
+        "technicalEnvironmentDesc": "Java 8, Spring Boot 2, REST, Spring Data JPA, MAVEN, GIT, IntelliJ, SWAGGER, DB2 v10, JAXB 2, JMS, Artifactory, Scrum, Windows 10"
+      },
+      {
+        "id": "auto",
+        "role": "Tech Lead, Scrum master",
+        "companyName": "SMABTP",
+        "period": "November 2017 - July 2018",
+        "projectDesc": "Support and development of the SMABTP business application, \"Reglements\", for Claims Processing. Adding Motor Fleet Claims Management feature. Init project.",
+        "responsabilitiesDesc": [
+          {
+            "responsabilityName": "Agile transition with Scrum."
+          },
+          {
+            "responsabilityName": "Designed and developped new feature to require vehicle experts inspections using Java, Spring and AngularJS."
+          },
+          {
+            "responsabilityName": "Coach and support the dev team."
+          }
+        ],
+        "technicalEnvironmentDesc": "Java 6, Spring MVC 3, Spring 3, AngularJS 1.6, NPM, GRUNT, Bower, Bootstrap, REST, JPA/Hibernate, MAVEN, JBoss 6, DB2 v9, GIT, Jenkins, Sonar, ECLIPSE, JMS, Artifactory, Scrum, Windows 10"
+      }
+    ],
+    "educationTitle": "Education",
+    "education": [
+      {
+        "id": "ensicaen",
+        "schoolName": "ENSICAEN (National Graduate Engineering School), Caen",
+        "degree": "Master's degree",
+        "period": "September 2001 - June 2004",
+        "specialization": "Computer Science and networking Engineer diploma"
+      },
+      {
+        "id": "buffon",
+        "schoolName": "Lycée Buffon (secondary school), Paris",
+        "degree": "Preparatory classes : two-year undergraduate intensive course in mathematics and physics",
+        "period": "September 1999 - June 2001",
+        "specialization": "MPSI, PSI"
+      }
+    ],
+    "interestsTitle": "Interests",
+    "interestsDesc": "Apart from being a web developer, I enjoy most of my free time doing Sport. I play soccer and commute with my longboard. I also do snowboarding in the winter. When forced indoors, I like to play guitare and ukulele, watch movies and follow several Netflix TV shows. I am passionate about web development, and I spend a large amount of my free time exploring the latest technology advancements. I attend Devoxx Conference every year.",
+    "contactTitle": "Contact",
+    "contactTitle2": "Contact Me",
+    "mobile": "+33623420455",
+    "email": "siegfried_alimi@yahoo.fr",
+    "address": "14 rue des Blancs Murs 94400 Vitry-sur-Seine, France"
+  }
+}

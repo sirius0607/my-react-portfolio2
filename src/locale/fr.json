@@ -1,0 +1,304 @@
+{
+  "translation": {
+    "localeId": "fr",
+    "locale": "Français",
+    "homeTitle": "Accueil",
+    "name": "Siegfried Alimi",
+    "photo": "images/siegfried-profile3.jpg",
+    "role": "Leader technique | Architecte SI | Senior Full Stack Développeur",
+    "socialLinks": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/siegfried-alimi-6b734b11",
+        "className": "linkedin-in"
+      },
+      {
+        "name": "facebook",
+        "url": "http://facebook.com/siegfried.alimi",
+        "className": "facebook-f"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/sirius0607",
+        "className": "github"
+      }
+    ],
+    "aboutTitle": "A propos",
+    "aboutDesc":
+    "Je suis un ingénieur en informatique travaillant à Paris. J'ai plus de 19 ans d'expérience dans le développement d'applications web avec des compétences à la fois côté Client et côté Serveur. Je travaille depuis 10 ans en temps que Leader Technique avec une équipe de 7 développeurs dans une compagnie d'assurance.",
+    "aboutTopSkillsTitle": "Je maîtrise plus particulièrement : ",
+    "aboutTopSkills": [
+      {
+        "aboutTopSkillsName":"Java" 
+      },
+      {
+        "aboutTopSkillsName":"SpringBoot" 
+      },
+      {
+        "aboutTopSkillsName":"Javascript" 
+      },
+      {
+        "aboutTopSkillsName":"Angular" 
+      },
+      {
+        "aboutTopSkillsName":"REST" 
+      },
+      {
+        "aboutTopSkillsName":"Hibernate" 
+      },
+      {
+        "aboutTopSkillsName":"Scrum" 
+      }
+    ],
+    "cvUrl": "https://drive.google.com/open?id=1m7tCUr8s6qfDisWGnmXP4AiBLTMR7MJ0",
+    "downloadButton": "Télécharger mon CV",
+    "skillsTitle": "Compétences",
+    "languagesTitle": "langages : ",
+    "toolsTitle": "outils : ",
+    "frontendTitle": "Front-end",
+    "backendTitle": "Back-end",
+    "programmingSkills": {
+      "backend": {
+        "languages": [
+          {
+            "languageName": "Java"
+          },
+          {
+            "languageName": "C"
+          },
+          {
+            "languageName": "C++"
+          },
+          {
+            "languageName": "SQL"
+          }
+        ],
+        "tools": [
+          {
+            "toolName": "Spring"
+          },
+          {
+            "toolName": "Spring Boot"
+          },
+          {
+            "toolName": "JPA/Hibernate"
+          },
+          {
+            "toolName": "MyBatis"
+          },
+          {
+            "toolName": "REST"
+          },
+          {
+            "toolName": "GIT"
+          },
+          {
+            "toolName": "Maven"
+          },
+          {
+            "toolName": "Jenkins"
+          },
+          {
+            "toolName": "Sonar"
+          },
+          {
+            "toolName": "JBoss"
+          },
+          {
+            "toolName": "Tomcat"
+          }
+        ]
+      },
+      "frontend": {
+        "languages": [
+          {
+            "languageName": "Javascript"
+          },
+          {
+            "languageName": "HTML"
+          },
+          {
+            "languageName": "CSS"
+          }
+        ],
+        "tools": [
+          {
+            "toolName": "Angular"
+          },
+          {
+            "toolName": "Jquery"
+          },
+          {
+            "toolName": "NodeJS"
+          },
+          {
+            "toolName": "NPM"
+          },
+          {
+            "toolName": "Grunt"
+          },
+          {
+            "toolName": "Webpack"
+          },
+          {
+            "toolName": "Karma"
+          },
+          {
+            "toolName": "Jasmine"
+          },
+          {
+            "toolName": "Protractor"
+          },
+          {
+            "toolName": "Boostrap"
+          }
+        ]
+      }
+    },
+    "methodologyTitle": "Méthodologies",
+    "methodologies": [
+      {
+        "methodologyName": "DDD"
+      },
+      {
+        "methodologyName": "TDD"
+      },
+      {
+        "methodologyName":"Scrum" 
+      },
+      {
+        "methodologyName":"Kanban" 
+      },
+      {
+        "methodologyName": "Extreme Programming"
+      }
+    ],
+    "databaseTitle": "Bases de données",
+    "databases": [
+      {
+        "databaseName":"DB2" 
+      },
+      {
+        "databaseName":"Oracle" 
+      },
+      {
+        "databaseName":"PostgreSQL" 
+      }
+    ],
+    "ideTitle": "IDE",
+    "ide": [
+      {
+        "ideName":"IntelliJ" 
+      },
+      {
+        "ideName":"VS Code" 
+      },
+      {
+        "ideName":"Eclipse" 
+      }
+    ],
+    "osTitle": "OS",
+    "os": [
+      {
+        "osName":"Windows" 
+      },
+      {
+        "osName":"UNIX" 
+      },
+      {
+        "osName":"Linux" 
+      }
+    ],
+    "experienceTitle": "Expériences",
+    "projectTitle": "Projet",
+    "responsabilitiesTitle": "Tâches accomplies",
+    "technicalEnvironmentTitle": "Environnement technique",
+    "experience": [
+      {
+        "id": "migration",
+        "role": "Leader Technique",
+        "companyName": "SMABTP",
+        "period": "Décembre 2022 - Aujourd'hui",
+        "projectDesc": "Développement et migration d’applications Cloud Native sur le Cloud Privé de la SMA",
+        "responsabilitiesDesc": [
+          {
+            "responsabilityName": "Mise en place de socles d’applications Cloud Native en Angular 16 avec standalone components et PrimeNG côté Front et Java 17 / Spring Boot 3.2 côté Back pour des nouvelles applications (outil de gestion d’attestations et un portail de tarification) et des migrations d’applications existantes (gestion des collaborateurs extérieurs, assistant à la création de courrier)"
+          },
+          {
+            "responsabilityName": "Respect des principes Microservice (12 Factors) et DDD"
+          },
+          {
+            "responsabilityName": "Design d’api REST pour les microservices développés par d’autres équipes de la DSI"
+          },
+          {
+            "responsabilityName": "Internationalisation d’une application avec Angular Transloco et ChatGPT pour la traduction en espagnol et anglais "
+          },
+          {
+            "responsabilityName": "Préparation et animation des réunions Teams de onBoarding des nouvelles applications Cloud avec les différents intervenants de la DSI (Architectes, Exploitants, DBA) "
+          },
+          {
+            "responsabilityName": "Encadrement des développeurs travaillant sur la nouvelle architecture (formation, support, revue de code, aide au refactoring) "
+          }
+        ],
+        "technicalEnvironmentDesc": "MicroService Java 17 / SpringBoot 3.2, Gradle 8, REST, Angular 16, GIT, GitLab, SonarQube, PrimeNG, JWT, Swagger, Docker, Kubernetes, VSCode, IntelliJ, Artifactory, DB2 v11, Windows 10"
+      },
+      {
+        "id": "batch",
+        "role": "Leader Technique, Scrum master",
+        "companyName": "SMABTP",
+        "period": "Mars 2018 - Décembre 2022",
+        "projectDesc":
+          "Maintenance et développement de l'application intranet SMABTP \"Reglements\" pour la gestion de sinistres. Ajout de la gestion de sinistre Flotte Auto. Développement d'un batch pour traiter les rapports des experts provenant de la plateforme EDI Darva et automatiquement régler le client.",
+        "responsabilitiesDesc": [
+          {
+            "responsabilityName":
+              "Design d'une nouvellle architecture batch avec Java 8 et Spring Boot utilisant les bonnes pratiques de TDD et DDD. Cette nouvelle architecture sert de modèle à 3 développeurs pour développer 3 nouveaux batchs pour la gestion de recours."
+          }
+        ],
+        "technicalEnvironmentDesc": "Java 8, Spring Boot 2, REST, Spring Data JPA, MAVEN, GIT, IntelliJ, SWAGGER, DB2 v10, JAXB 2, JMS, Artifactory, Scrum, Windows 10"
+      },
+      {
+        "id": "auto",
+        "role": "Leader Technique, Scrum master",
+        "companyName": "SMABTP",
+        "period": "Septembre - Mars 2018",
+        "projectDesc":
+          "Maintenance et développement de l'application intranet SMABTP \"Reglements\" pour la gestion de sinistres. Ajout de la gestion de sinistre Flotte Auto. initialisation du projet.",
+        "responsabilitiesDesc": [
+          { "responsabilityName": "Transformation Agile de l'équipe avec Scrum." },
+          {
+            "responsabilityName":
+              "Design et développement d'une nouvelle fonctionalité pour missionner des experts auto avec Java, Spring et AngularJS."
+          },
+          { "responsabilityName": "Coaching et support de l'équipe de dev." }
+        ],
+        "technicalEnvironmentDesc": "Java 6, Spring MVC 3, Spring 3, AngularJS 1.6, NPM, GRUNT, Bower, Bootstrap, REST, JPA/Hibernate, MAVEN, JBoss 6, DB2 v9, GIT, Jenkins, Sonar, ECLIPSE, JMS, Artifactory, Scrum, Windows 10"
+      }
+    ],
+    "educationTitle": "Etudes",
+    "education": [
+      {
+        "id":"ensicaen",
+        "schoolName": "ENSICAEN (Ecole Nationale Supérieure d'Ingénieurs), Caen",
+        "degree": "Diplôme d'Ingénieur",
+        "period": "Septembre 2001 - Juin 2004",
+        "specialization": "Informatique et réseaux option monétique"
+      },
+      {
+        "id":"buffon",
+        "schoolName": "Lycée Buffon, Paris",
+        "degree": "Classes préparatoires",
+        "period": "Septembre 1999 - Juin 2001",
+        "specialization": "MPSI, PSI"
+      }
+    ],
+    "interestsTitle": "Centres d'intêret",
+    "interestsDesc":
+      "Mise à part le développement web, j'aime passer le plus clair de mon temps libre à faire du sport. Je joue au foot et me déplace en longboard. Je fais aussi du snowboard l'hiver. Quand je reste chez moi je joue de la guitare et du ukulélé, regarde des films et suis différentes séries. Le développement web me passionne et je passe une grande partie de mon temps à découvrir les dernières avancées technologiques dans ce domaine. J'assiste aux conférences Devoxx France tous les ans.",
+    "contactTitle": "Contact",
+    "contactTitle2": "Contactez moi",
+    "mobile": "+33623420455",
+    "email": "siegfried_alimi@yahoo.fr",
+    "address": "13 rue Augustin Thierry 75019 Paris, France"
+}
+}
